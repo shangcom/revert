@@ -1,4 +1,1 @@
-1st commit
-2nd commit
-3rd commit
-4th commit
+1st commit # git revert HEAD~2 입력했더니 충돌 발생해서 싹 다 지움.
